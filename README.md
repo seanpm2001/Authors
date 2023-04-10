@@ -26,6 +26,12 @@ To differentiate between [:octocat: `Contributors`](https://github.com/seanpm200
 
 ***
 
-**File version:** `1 (2023, Sunday, April 9th at 11:03 pm PST)`
+## Authors files
+
+A colection of [`AUTHORS`](/AUTHORS) files is coming soon.
+
+***
+
+**File version:** `2 (2023, Sunday, April 9th at 11:05 pm PST)`
 
 ***
